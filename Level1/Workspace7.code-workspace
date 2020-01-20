@@ -4,5 +4,9 @@
 			"path": "/Users/de10594/Google Drive/66 Visual Studio Code/Workspace7"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.yaml": "home-assistant"
+		}
+	}
 }
